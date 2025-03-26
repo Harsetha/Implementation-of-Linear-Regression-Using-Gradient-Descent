@@ -24,7 +24,6 @@ Developed by: HARSETHA J
 RegisterNumber:  212223220032
 */
 ```
-## Program:
 ```
 import numpy as np
 import pandas as pd
